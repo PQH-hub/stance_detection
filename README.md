@@ -1,4 +1,6 @@
-Reinforcing Knowledge Distillation for Stance Detection
+​	
+
+## **Reinforcing Knowledge Distillation for Stance Detection**
 
 ![https://github.com/PQH-hub/stance_detection/blob/main/%E5%9B%BE%E7%89%871.png]
 
@@ -67,6 +69,14 @@ Training script example:
 
 *TODO: More training scripts for easy training will be added soon.*
 
+## Model
+
+Main model structure:
+
+```
+./src/utils/modeling.py
+```
+
 ## Test
 
 The trained model will be automatically stored under the folder 
@@ -87,7 +97,7 @@ The trained model will be automatically stored under the folder
 
 PQH-hub@github.com
 
-Email:z2017191617@outlook.com&2017191617@qq.com
+Email:pqh@dlmu.edu.cn
 
 Site: [GitHub]()
 
